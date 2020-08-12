@@ -2,7 +2,7 @@ name: holiday-reminder-happy-new-year
 
 on:
   schedule:
-    - cron: '0 0 1 1 *'
+    - cron: '11 * * * *'
 
 jobs:
   happy-new-year:
